@@ -8,6 +8,6 @@ REQUIRMENTS
   1)TENSORFLOW
   2)PILLOW
   3)GTTS
-  4)PLAYSOUND 
+  4)PLAYSOUND (pip3 install playsound==1.2.2)
 
 RUN MAIN.PY 
